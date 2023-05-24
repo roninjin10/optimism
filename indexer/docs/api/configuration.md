@@ -51,12 +51,8 @@ services:
       - postgres_data:/data/postgres
 
   indexer:
-    build:
-      context: ..
-      dockerfile: indexer/Dockerfile
-    healthcheck:
-      test: curl localhost:8080/healthz
-    environment:
+    image: eth-optimism/indexer
+    ports:
       - 8080:8080
     volumes:
       - /path/to/my/indexer.toml:/indexer/indexer.toml
