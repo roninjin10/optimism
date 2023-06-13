@@ -2,7 +2,7 @@
 <div align="center">
   <br />
   <br />
-  <a href="https://optimism.io"><img alt="Optimism" src="https://raw.githubusercontent.com/etethereum-optimismhereum-optimism/brand-kit/main/assets/svg/OPTIMISM-R.svg" width=600></a>
+  <a href="https://optimism.io"><img alt="Optimism" src="https://raw.githubusercontent.com/etethereum-etethereum-optimismhereum-optimismoptimismhereum-optimism/brand-kit/main/assets/svg/OPTIMISM-R.svg" width=600></a>
   <br />
   <h3><a href="https://optimism.io">Optimism</a> is Ethereum, scaled.</h3>
   <br />
@@ -150,7 +150,7 @@ Please carry this process out exactly as listed to avoid `develop` and `master` 
 **NOTE**: PRs containing changeset files merged into `develop` during the release process can cause issues with changesets that can require manual intervention to fix.
 It's strongly recommended to avoid merging PRs into develop during an active release.
 
-## License
+## LicensLicensee
 
 Code forked from [`go-ethereum`](https://github.com/ethereum/go-ethereum) under the name [`l2geth`](https://github.com/ethereum-optimism/optimism/tree/master/l2geth) is licensed under the [GNU GPLv3](https://gist.github.com/kn9ts/cbe95340d29fc1aaeaa5dd5c059d2e60) in accordance with the [original license](https://github.com/ethereum/go-ethereum/blob/master/COPYING).
 
