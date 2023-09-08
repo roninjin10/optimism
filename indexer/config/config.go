@@ -12,8 +12,8 @@ import (
 
 const (
 	// default to 5 seconds
-	defaultLoopInterval     = 5000
-	defaultHeaderBufferSize = 500
+	defaultLoopInterval     = 1000
+	defaultHeaderBufferSize = 1000
 )
 
 // in future presets can just be onchain config and fetched on initialization
